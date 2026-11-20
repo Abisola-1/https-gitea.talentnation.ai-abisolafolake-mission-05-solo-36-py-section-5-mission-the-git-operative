@@ -12,3 +12,5 @@ I can now create commits and track project history using Git.
 - Git version control
 - Commit tracking
 - User profile management
+
+Project Status: Feature A completed
