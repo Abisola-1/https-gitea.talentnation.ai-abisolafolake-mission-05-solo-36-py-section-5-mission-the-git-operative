@@ -7,3 +7,8 @@ I am learning Git and GitHub.
 Git helps developers track changes and manage project versions.
 
 I can now create commits and track project history using Git.
+## Project Features
+
+- Git version control
+- Commit tracking
+- User profile management
